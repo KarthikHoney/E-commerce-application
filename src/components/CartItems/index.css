@@ -1,0 +1,25 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+item-price {
+  font-weight: bold;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+item-name {
+  font-weight: normal;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+.item-weight {
+  font-weight: normal;
+  color: grey;
+  font-family: 'Courier New', Courier, monospace;
+}
+.item-image {
+  height: 50px;
+  width: 60px;
+}
